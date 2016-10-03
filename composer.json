@@ -1,0 +1,15 @@
+{
+    "name": "teguhsuandi/pingpongthemes",
+    "description": "Laravel Themes implemented as Pingpong Module.",
+    "authors": [
+        {
+            "name": "Teguh Suandi",
+            "email": "mteguhasuandi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\PingpongThemes\\": ""
+        }
+    }
+}

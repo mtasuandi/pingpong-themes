@@ -1,0 +1,15 @@
+{
+    "name": "PingpongThemes",
+    "alias": "pingpongthemes",
+    "description": "Laravel Themes implemented as Pingpong Module.",
+    "keywords": ["Laravel Themes", "Pingpong Module", "Flat", "Responsive"],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\PingpongThemes\\Providers\\PingpongThemesServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
